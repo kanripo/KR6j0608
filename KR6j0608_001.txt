@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:12.606325
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:37
 #+TITLE: 佛說寶帶陀羅尼經
 #+PROPERTY: CBETA_ID T21n1377
 #+PROPERTY: ID KR6j0608
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1377
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0608_T_000-0898c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0608_T_001-0898c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1377¶
-
- 佛說寶帶陀羅尼經¶
+No. 1377¶
+佛說寶帶陀羅尼經¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護奉　詔譯¶
